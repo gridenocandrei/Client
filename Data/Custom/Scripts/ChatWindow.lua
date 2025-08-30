@@ -1,0 +1,66 @@
+
+CHAT_NORMAL							= 1
+CHAT_PRIVATE						= 2
+CHAT_SYSMESSAGE						= 3
+CHAT_SYSERROR						= 4
+CHAT_PARTY							= 5
+CHAT_GUILD							= 6
+CHAT_ALLIANCE						= 7
+CHAT_GAMEMASTER						= 8
+CHAT_GENS							= 9
+CHAT_POST							= 10
+CHAT_QUESTSYSTEM					= 11
+CHAT_POSTITEM						= 12
+
+
+function MakeText(textType)
+	if textType == CHAT_NORMAL then
+		SetBkColor(0x0,0x0,0x0,0x7F);
+		SetTextColor(0xFF,0xFF,0xFF,0xFF);
+		SetFont(FontBold);
+	elseif textType == CHAT_PRIVATE then
+		SetBkColor(0xFF,0xFF,0xFF,0x7F);
+		SetTextColor(0x00,0x00,0x00,0xFF);
+		SetFont(FontBold);
+	elseif textType == CHAT_SYSMESSAGE then
+		SetBkColor(0x0,0x0,0x0,0x7F);
+		SetTextColor(0x63,0x94,0xfb,0xFF);
+		SetFont(FontBold);
+	elseif textType == CHAT_SYSERROR then
+		SetBkColor(0x0,0x0,0x0,0x7F);
+		SetTextColor(0xff,0x00,0x00,0xFF);
+		SetFont(FontBold);
+	elseif textType == CHAT_PARTY then
+		SetBkColor(0xFF,0x80,0x00,0x7F);
+		SetTextColor(0x00,0x00,0x00,0xFF);
+		SetFont(FontBold);
+	elseif textType == CHAT_GUILD then
+		SetBkColor(0x00,0xFF,0x00,0x7F);
+		SetTextColor(0x00,0x00,0x00,0xFF);
+		SetFont(FontBold);
+	elseif textType == CHAT_ALLIANCE then
+		SetBkColor(0x00,0xFF,0xFF,0x7F);
+		SetTextColor(0x00,0x00,0x00,0xFF);
+		SetFont(FontBold);
+	elseif textType == CHAT_GAMEMASTER then
+		SetBkColor(0x0,0x0,0x0,0x7F);
+		SetTextColor(0xee,0xff,0x00,0xFF);
+		SetFont(FontBold);
+	elseif textType == CHAT_GENS then
+		SetBkColor(0x0,0x0,0x0,0x7F);
+		SetTextColor(0x2a,0xe4,0xeb,0xFF);
+		SetFont(FontBold);
+	elseif textType == CHAT_POST then
+		SetBkColor(0x00,0x00,0x00,0x7F);
+		SetTextColor(0x21,0xd4,0xd1,0xFF);
+		SetFont(FontBold);		
+	elseif textType == CHAT_QUESTSYSTEM then
+		SetBkColor(0x0,0x0,0x0,0x7F);
+		SetTextColor(0x00,0xff,0x00,0xFF);
+		SetFont(FontBold);
+	elseif textType == CHAT_POSTITEM then
+		SetBkColor(0xff,0xff,0x29,0x7F);
+		SetTextColor(0x0,0x0,0x0,0xFF);
+		SetFont(FontBold);
+	end
+end

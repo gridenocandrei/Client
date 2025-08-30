@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResolutionsInfo>
+	<Resolution index="0"  name="640x480"   font_size="8"/>
+	<Resolution index="1"  name="800x600"   font_size="13"/>
+	<Resolution index="2"  name="1024x768"  font_size="14"/>
+	<Resolution index="3"  name="1152x864"  font_size="14"/>
+	<Resolution index="4"  name="1280x768"  font_size="15"/>
+	<Resolution index="5"  name="1280x800"  font_size="15"/>
+	<Resolution index="6"  name="1280x960"  font_size="15"/>
+	<Resolution index="7"  name="1280x1024" font_size="15"/>
+	<Resolution index="8"  name="1366x768"  font_size="15"/>
+	<Resolution index="9"  name="1440x900"  font_size="15"/>
+	<Resolution index="10" name="1600x900"  font_size="16"/>
+	<Resolution index="11" name="1600x1200" font_size="16"/>
+	<Resolution index="12" name="1680x1050" font_size="16"/>
+	<Resolution index="13" name="1920x1080" font_size="17"/>
+	<Resolution index="14" name="1920x1200" font_size="17"/>
+	<Resolution index="15" name="1024x600"  font_size="14"/>
+	<Resolution index="16" name="1910x970"  font_size="17"/>
+	<Resolution index="17" name="1350x650"  font_size="15"/>
+	<Resolution index="18" name="1600x1280" font_size="16"/>
+	<Resolution index="19" name="1248x702"  font_size="15"/>
+</ResolutionsInfo>

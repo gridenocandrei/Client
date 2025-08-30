@@ -1,0 +1,600 @@
+
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.04e (Eng) executed. (1.4.5.0)
+2025/08/30 02:29
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium 3 2495Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+[Multi Client] Check cmd line :  / web starter Param :  !! 
+> To read config.ini.
+-- 글로벌포탈 초기화 -- 
+> gg init success.
+-------------------------------------------------------------------------------------
+> Enum display settings.
+> Screen size = 1920 x 1080.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: NVIDIA Corporation
+Render		: NVIDIA GeForce RTX 3070/PCIe/SSE2
+OpenGL version	: 4.6.0 NVIDIA 581.08
+Max Texture size	: 32768 x 32768
+Max Viewport size	: 32768 x 32768
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: Speakers (HyperX QuadCast S)
+Sound Card Driver	: {0.0.0.00000000}.{bca38bb0-9415-42c9-8a45-74b9d8f5a698} (0.0.0.0)
+Sound Card 		: Realtek Digital Output (Realtek(R) Audio)
+Sound Card Driver	: {0.0.0.00000000}.{5c39b65f-81b3-454d-92bc-8d77c8806cbd} (0.0.0.0)
+Sound Card 		: Speakers (Steam Streaming Speakers)
+Sound Card Driver	: {0.0.0.00000000}.{a65864ed-fa9b-42ad-bd0a-51ab9f8eb408} (0.0.0.0)
+Sound Card 		: Speakers (Steam Streaming Microphone)
+Sound Card Driver	: {0.0.0.00000000}.{c10e761f-6cc5-4a98-a3e5-4ae1f1345a79} (0.0.0.0)
+Sound Card 		: Speakers (Realtek(R) Audio)
+Sound Card Driver	: {0.0.0.00000000}.{deedeb5f-1594-43f2-9106-bc11dee8cf20} (0.0.0.0)
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00000409
+-------------------------------------------------------------------------------------
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/gate.bmd file is modified.
+[ResourceGuard] Error: Data/Local/ItemSetType.bmd file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/filter.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/itemSetOption_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: cannot open Data/Local/Por/Quest_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/QuestWords_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/itemSetOption_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Movereq_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/text_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/item_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Skill_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/buffeffect_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/MasterSkillTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/ItemTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Quest_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/QuestWords_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/itemSetOption_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Movereq_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/text_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/item_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Skill_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/buffeffect_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/MasterSkillTooltip_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/ItemTooltip_spn.bmd file.
+[ResourceGuard] Error: Data/World1/EncTerrain1.att file is modified.
+[ResourceGuard] Error: Data/World1/EncTerrain1.obj file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.map file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.obj file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.att file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.map file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+인덱스를 공유하거나 Delete없이 사용하였음Data\Effect\Shiny04.jpg(0x00007D76)->Data\Effect\Shiny05.jpg
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/gate.bmd file is modified.
+[ResourceGuard] Error: Data/Local/ItemSetType.bmd file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/filter.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/itemSetOption_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: cannot open Data/Local/Por/Quest_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/QuestWords_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/itemSetOption_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Movereq_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/text_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/item_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Skill_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/buffeffect_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/MasterSkillTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/ItemTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Quest_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/QuestWords_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/itemSetOption_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Movereq_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/text_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/item_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Skill_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/buffeffect_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/MasterSkillTooltip_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/ItemTooltip_spn.bmd file.
+[ResourceGuard] Error: Data/World1/EncTerrain1.att file is modified.
+[ResourceGuard] Error: Data/World1/EncTerrain1.obj file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.map file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.obj file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.att file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.map file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/gate.bmd file is modified.
+[ResourceGuard] Error: Data/Local/ItemSetType.bmd file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/filter.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/itemSetOption_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: cannot open Data/Local/Por/Quest_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/QuestWords_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/itemSetOption_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Movereq_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/text_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/item_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Skill_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/buffeffect_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/MasterSkillTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/ItemTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Quest_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/QuestWords_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/itemSetOption_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Movereq_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/text_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/item_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Skill_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/buffeffect_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/MasterSkillTooltip_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/ItemTooltip_spn.bmd file.
+[ResourceGuard] Error: Data/World1/EncTerrain1.att file is modified.
+[ResourceGuard] Error: Data/World1/EncTerrain1.obj file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.map file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.obj file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.att file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.map file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+인덱스를 공유하거나 Delete없이 사용하였음Data\Custom\Interface\Info_Block.tga(0x0000F91E)->Data\Custom\Interface\MapBackground.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\newui_item_back01.tga(0x00007A79)->Data\Interface\newui_item_back04.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\newui_item_back04.tga(0x00007A79)->Data\Interface\newui_item_back01.tga
+> Loading ok.
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf01.tga(0x00007695)->Data\World74\leaf01.jpg
+[Connect to Server] ip address = 162.19.255.88, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 162.19.255.88, port = 55901
+> Login Request.
+> Try to Login "29254"
+> Login Request.
+> Try to Login "29254"
+> Login Request.
+> Try to Login "29254"
+[Socket Closed][Clear PacketQueue]
+[Socket Closed][Clear PacketQueue]
+Destroy
+###### Log Begin ######
+-------------------------------------------------------------------------------------
+Mu online 1.04e (Eng) executed. (1.4.5.0)
+2025/08/30 02:31
+-------------------------------------------------------------------------------------
+<System information>
+OS 			: Unknown 6.2 Build 9200 ()
+CPU 			: GenuineIntel - Pentium 3 2495Mhz
+RAM 			: 2048MB
+-------------------------------------------------------------------------------------
+Direct-X 		: Direct-X 9.0
+-------------------------------------------------------------------------------------
+[Multi Client] Check cmd line :  / web starter Param :  !! 
+> To read config.ini.
+-- 글로벌포탈 초기화 -- 
+> gg init success.
+-------------------------------------------------------------------------------------
+> Enum display settings.
+> Screen size = 1280 x 960.
+> Start window success.
+> OpenGL init success.
+-------------------------------------------------------------------------------------
+<OpenGL information>
+Vendor		: NVIDIA Corporation
+Render		: NVIDIA GeForce RTX 3070/PCIe/SSE2
+OpenGL version	: 4.6.0 NVIDIA 581.08
+Max Texture size	: 32768 x 32768
+Max Viewport size	: 32768 x 32768
+-------------------------------------------------------------------------------------
+<Sound card information>
+Sound Card 		: Speakers (HyperX QuadCast S)
+Sound Card Driver	: {0.0.0.00000000}.{bca38bb0-9415-42c9-8a45-74b9d8f5a698} (0.0.0.0)
+Sound Card 		: Realtek Digital Output (Realtek(R) Audio)
+Sound Card Driver	: {0.0.0.00000000}.{5c39b65f-81b3-454d-92bc-8d77c8806cbd} (0.0.0.0)
+Sound Card 		: Speakers (Steam Streaming Speakers)
+Sound Card Driver	: {0.0.0.00000000}.{a65864ed-fa9b-42ad-bd0a-51ab9f8eb408} (0.0.0.0)
+Sound Card 		: Speakers (Steam Streaming Microphone)
+Sound Card Driver	: {0.0.0.00000000}.{c10e761f-6cc5-4a98-a3e5-4ae1f1345a79} (0.0.0.0)
+Sound Card 		: Speakers (Realtek(R) Audio)
+Sound Card Driver	: {0.0.0.00000000}.{deedeb5f-1594-43f2-9106-bc11dee8cf20} (0.0.0.0)
+-------------------------------------------------------------------------------------
+> gg connect Window Handle.
+-------------------------------------------------------------------------------------
+<IME information>
+IME Name		: 
+IME File Name		: 
+Keyboard type		: 00000409
+-------------------------------------------------------------------------------------
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/gate.bmd file is modified.
+[ResourceGuard] Error: Data/Local/ItemSetType.bmd file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/filter.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/itemSetOption_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: cannot open Data/Local/Por/Quest_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/QuestWords_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/itemSetOption_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Movereq_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/text_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/item_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Skill_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/buffeffect_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/MasterSkillTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/ItemTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Quest_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/QuestWords_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/itemSetOption_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Movereq_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/text_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/item_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Skill_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/buffeffect_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/MasterSkillTooltip_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/ItemTooltip_spn.bmd file.
+[ResourceGuard] Error: Data/World1/EncTerrain1.att file is modified.
+[ResourceGuard] Error: Data/World1/EncTerrain1.obj file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.map file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.obj file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.att file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.map file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+인덱스를 공유하거나 Delete없이 사용하였음Data\Effect\Shiny04.jpg(0x00007D76)->Data\Effect\Shiny05.jpg
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/gate.bmd file is modified.
+[ResourceGuard] Error: Data/Local/ItemSetType.bmd file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/filter.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/itemSetOption_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: cannot open Data/Local/Por/Quest_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/QuestWords_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/itemSetOption_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Movereq_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/text_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/item_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Skill_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/buffeffect_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/MasterSkillTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/ItemTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Quest_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/QuestWords_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/itemSetOption_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Movereq_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/text_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/item_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Skill_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/buffeffect_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/MasterSkillTooltip_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/ItemTooltip_spn.bmd file.
+[ResourceGuard] Error: Data/World1/EncTerrain1.att file is modified.
+[ResourceGuard] Error: Data/World1/EncTerrain1.obj file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.map file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.obj file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.att file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.map file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/gate.bmd file is modified.
+[ResourceGuard] Error: Data/Local/ItemSetType.bmd file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/filter.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/itemSetOption_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: cannot open Data/Local/Por/Quest_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/QuestWords_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/itemSetOption_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Movereq_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/text_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/item_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Skill_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/buffeffect_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/MasterSkillTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/ItemTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Quest_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/QuestWords_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/itemSetOption_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Movereq_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/text_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/item_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Skill_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/buffeffect_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/MasterSkillTooltip_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/ItemTooltip_spn.bmd file.
+[ResourceGuard] Error: Data/World1/EncTerrain1.att file is modified.
+[ResourceGuard] Error: Data/World1/EncTerrain1.obj file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.map file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.obj file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.att file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.map file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+인덱스를 공유하거나 Delete없이 사용하였음Data\Custom\Interface\Info_Block.tga(0x0000F91E)->Data\Custom\Interface\MapBackground.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\newui_item_back01.tga(0x00007A79)->Data\Interface\newui_item_back04.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\Interface\newui_item_back04.tga(0x00007A79)->Data\Interface\newui_item_back01.tga
+> Loading ok.
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf01.tga(0x00007695)->Data\World74\leaf01.jpg
+[Connect to Server] ip address = 162.19.255.88, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 162.19.255.88, port = 55901
+> Login Request.
+> Try to Login "29254"
+> Request Character list
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf01.jpg(0x00007695)->Data\World75\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World75\leaf01.tga(0x00007695)->Data\World75\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf02.jpg(0x00007696)->Data\World75\leaf02.jpg
+> Character scene init success.
+> Character selected <1> "Rizz"
+> Main Scene init success. 2025/08/30 02:31
+인덱스를 공유하거나 Delete없이 사용하였음Data\World75\leaf01.jpg(0x00007695)->Data\World4\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World4\leaf01.tga(0x00007695)->Data\World4\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World75\leaf02.jpg(0x00007696)->Data\World4\leaf02.jpg
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/gate.bmd file is modified.
+[ResourceGuard] Error: Data/Local/ItemSetType.bmd file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/filter.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/itemSetOption_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: cannot open Data/Local/Por/Quest_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/QuestWords_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/itemSetOption_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Movereq_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/text_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/item_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Skill_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/buffeffect_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/MasterSkillTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/ItemTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Quest_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/QuestWords_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/itemSetOption_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Movereq_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/text_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/item_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Skill_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/buffeffect_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/MasterSkillTooltip_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/ItemTooltip_spn.bmd file.
+[ResourceGuard] Error: Data/World1/EncTerrain1.att file is modified.
+[ResourceGuard] Error: Data/World1/EncTerrain1.obj file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.map file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.obj file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.att file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.map file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+인덱스를 공유하거나 Delete없이 사용하였음Data\World11\leaf01.tga(0x00007695)->Data\World11\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World58\leaf01.tga(0x00007695)->Data\World58\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World11\leaf02.jpg(0x00007696)->Data\World58\leaf02.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World58\leaf01.jpg(0x00007695)->Data\World8\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World58\leaf02.jpg(0x00007696)->Data\World8\leaf02.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World8\leaf01.jpg(0x00007695)->Data\World1\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World1\leaf01.tga(0x00007695)->Data\World1\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World8\leaf02.jpg(0x00007696)->Data\World1\leaf02.jpg
+[ReceiveLogOut][Socket Closed][Clear PacketQueue]
+인덱스를 공유하거나 Delete없이 사용하였음Data\World8\leaf01.jpg(0x00007695)->Data\World74\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf01.tga(0x00007695)->Data\World74\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World8\leaf02.jpg(0x00007696)->Data\World74\leaf02.jpg
+[Connect to Server] ip address = 162.19.255.88, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 162.19.255.88, port = 55901
+> Login Request.
+> Try to Login "29254"
+> Request Character list
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf01.jpg(0x00007695)->Data\World75\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World75\leaf01.tga(0x00007695)->Data\World75\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf02.jpg(0x00007696)->Data\World75\leaf02.jpg
+> Character scene init success.
+> Character selected <1> "Rizz"
+> Main Scene init success. 2025/08/30 02:41
+인덱스를 공유하거나 Delete없이 사용하였음Data\World75\leaf01.jpg(0x00007695)->Data\World8\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World75\leaf02.jpg(0x00007696)->Data\World8\leaf02.jpg
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/gate.bmd file is modified.
+[ResourceGuard] Error: Data/Local/ItemSetType.bmd file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/filter.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/itemSetOption_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: cannot open Data/Local/Por/Quest_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/QuestWords_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/itemSetOption_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Movereq_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/text_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/item_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Skill_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/buffeffect_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/MasterSkillTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/ItemTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Quest_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/QuestWords_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/itemSetOption_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Movereq_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/text_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/item_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Skill_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/buffeffect_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/MasterSkillTooltip_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/ItemTooltip_spn.bmd file.
+[ResourceGuard] Error: Data/World1/EncTerrain1.att file is modified.
+[ResourceGuard] Error: Data/World1/EncTerrain1.obj file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.map file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.obj file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.att file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.map file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+> Menu - Join another server. 2025/08/30 02:47
+[ReceiveLogOut][Socket Closed][Clear PacketQueue]
+인덱스를 공유하거나 Delete없이 사용하였음Data\World8\leaf01.jpg(0x00007695)->Data\World74\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf01.tga(0x00007695)->Data\World74\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World8\leaf02.jpg(0x00007696)->Data\World74\leaf02.jpg
+[Connect to Server] ip address = 162.19.255.88, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+Success Receive Server List.
+[ReceiveServerConnect][Socket Closed][Clear PacketQueue]
+[Connect to Server] ip address = 162.19.255.88, port = 55901
+> Login Request.
+> Try to Login "29254"
+> Request Character list
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf01.jpg(0x00007695)->Data\World75\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World75\leaf01.tga(0x00007695)->Data\World75\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf02.jpg(0x00007696)->Data\World75\leaf02.jpg
+> Character scene init success.
+> Character selected <1> "Rizz"
+> Main Scene init success. 2025/08/30 02:48
+인덱스를 공유하거나 Delete없이 사용하였음Data\World75\leaf01.jpg(0x00007695)->Data\World8\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World75\leaf02.jpg(0x00007696)->Data\World8\leaf02.jpg
+[ResourceGuard] Check Integrity... : data\local\Gameguard.csr
+[ResourceGuard] Error: main.exe file is modified.
+[ResourceGuard] Error: Data/gate.bmd file is modified.
+[ResourceGuard] Error: Data/Local/ItemSetType.bmd file is modified.
+[ResourceGuard] Error: Data/Local/mix.bmd file is modified.
+[ResourceGuard] Error: Data/Local/filter.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/itemSetOption_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Movereq_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/text_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/item_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/Skill_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/buffeffect_eng.bmd file is modified.
+[ResourceGuard] Error: Data/Local/Eng/ItemTooltip_eng.bmd file is modified.
+[ResourceGuard] Error: cannot open Data/Local/Por/Quest_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/QuestWords_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/itemSetOption_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Movereq_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/text_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/item_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/Skill_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/buffeffect_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/MasterSkillTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Por/ItemTooltip_por.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Quest_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/QuestWords_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/itemSetOption_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Movereq_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/text_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/item_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/Skill_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/buffeffect_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/MasterSkillTooltip_spn.bmd file.
+[ResourceGuard] Error: cannot open Data/Local/Spn/ItemTooltip_spn.bmd file.
+[ResourceGuard] Error: Data/World1/EncTerrain1.att file is modified.
+[ResourceGuard] Error: Data/World1/EncTerrain1.obj file is modified.
+[ResourceGuard] Error: Data/World7/EncTerrain7.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.att file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.map file is modified.
+[ResourceGuard] Error: Data/World41/EncTerrain41.obj file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.att file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.map file is modified.
+[ResourceGuard] Error: Data/World75/EncTerrain75.obj file is modified.
+[ResourceGuard] Stop checking integrity.
+인덱스를 공유하거나 Delete없이 사용하였음Data\World8\leaf01.jpg(0x00007695)->Data\World7\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World7\leaf01.tga(0x00007695)->Data\World7\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World8\leaf02.jpg(0x00007696)->Data\World7\leaf02.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf01.tga(0x00007695)->Data\World3\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World7\leaf02.jpg(0x00007696)->Data\World3\leaf02.jpg
+[ReceiveLogOut][Socket Closed][Clear PacketQueue]
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf01.jpg(0x00007695)->Data\World74\leaf01.tga
+인덱스를 공유하거나 Delete없이 사용하였음Data\World74\leaf01.tga(0x00007695)->Data\World74\leaf01.jpg
+인덱스를 공유하거나 Delete없이 사용하였음Data\World3\leaf02.jpg(0x00007696)->Data\World74\leaf02.jpg
+[Connect to Server] ip address = 162.19.255.88, port = 44405
+> Login Scene init success.
+Send Request Server List.
+Success Receive Server List.
+[Socket Closed][Clear PacketQueue]
+[Socket Closed][Clear PacketQueue]
+Destroy

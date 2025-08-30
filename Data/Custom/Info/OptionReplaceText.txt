@@ -1,0 +1,17 @@
+//optionIndex     text
+117               "Add Exp +%d%%"
+87                "Increase Max HP +%d%%"
+93                "Excellent Damage rate +%d%%"
+88                "Increase Max Mana +%d%%"
+94                "Increase Damage +level/%d"
+96                "Increase Wizardry Dmg +level/%d"
+89                "Damage Decrease +%d%%"
+95                "Increase Damage +%d%%"
+97                "Increase Wizardry Dmg +%d%%"
+90                "Reflect Damage +%d%%"
+98                "Increase Attacking(Wizardy)speed +%d"
+91                "Defense success rate +%d%%"
+99                "Increases acquisition rate of Life after hunting monsters +life/%d"
+92                "Increases acquisition rate of Zen after hunting monsters +%d%%"
+100               "Increases acquisition rate of Mana after hunting monsters +Mana/%d"
+end
